@@ -1,63 +1,63 @@
 [
   {
     "key": "CPD",
-    "name": "LDC | CPD | FW | SDWAN | 10.74.64.242",
+    "name": "CPD",
     "latitude": -23.5024,
     "longitude":-46.8272
   },
  
   {
     "key": "RIO VERDE TRANSPORTES",
-    "name": "LDC | RIO VERDE TRANSPORTES | FW | SDWAN | 10.74.228.112",
+    "name": "RIO VERDE TRANSPORTES",
     "latitude": -17.8198,
     "longitude":-50.9466
   },
  
   {
     "key": "RIO VERDE KOWALSKI",
-    "name": "LDC | RIO VERDE KOWALSKI | FW | SDWAN | 10.74.228.110",
+    "name": "RIO VERDE KOWALSKI",
     "latitude": -17.7711,
     "longitude":-50.8899
   },
  
   {
     "key": "RONDONOPOLIS",
-    "name": "LDC | RONDONOPOLIS | FW | SDWAN | 10.74.228.113",
+    "name": "RONDONOPOLIS",
     "latitude": -16.4573,
     "longitude":-54.6610
   },
  
   {
     "key": "SANTOS T30",
-    "name": "LDC | SANTOS T30 | FW | SDWAN | 10.74.228.118",
+    "name": "SANTOS T30",
     "latitude": -23.9675,
     "longitude":-46.3014
   },
  
   {
     "key": "VARGINHA WAREHOUSE",
-    "name": "LDC | VARGINHA WAREHOUSE | FW | SDWAN | 10.74.228.135",
+    "name": "VARGINHA WAREHOUSE",
     "latitude": -21.5743,
     "longitude":-45.4423
   },
  
   {
     "key": "AGUA BOA TRANSPORTES",
-    "name": "LDC | AGUA BOA TRANSPORTES | FW | SDWAN | 10.74.228.12",
+    "name": "AGUA BOA TRANSPORTES",
     "latitude": -14.0274,
     "longitude":-52.1570
   },
  
   {
     "key": "ARARAS",
-    "name": "LDC | ARARAS | FW | SDWAN | 10.74.228.16",
+    "name": "ARARAS",
     "latitude": -22.3596,
     "longitude":-47.3888
   },
  
   {
     "key": "CASCAVEL TRANSPORTES",
-    "name": "LDC | CASCAVEL TRANSPORTES | FW | SDWAN | 10.74.228.25",
+    "name": "CASCAVEL TRANSPORTES",
     "latitude": -24.9652,
     "longitude":-53.4054
   },
@@ -78,42 +78,42 @@
  
   {
     "key": "CONFRESA",
-    "name": "LDC | CONFRESA | FW | SDWAN | 10.74.228.29",
+    "name": "CONFRESA",
     "latitude": -17.5622,
     "longitude":-51.8866
   },
  
   {
     "key": "ITUMBIARA TRANSPORTES",
-    "name": "LDC | ITUMBIARA TRANSPORTES | FW | SDWAN | 10.74.228.77",
+    "name": "ITUMBIARA TRANSPORTES",
     "latitude": -18.3817,
     "longitude":-49.2080
   },
  
   {
     "key": "JATAI TRANSPORTES",
-    "name": "LDC | JATAI TRANSPORTES | FW | SDWAN | 10.74.228.80",
+    "name": "JATAI TRANSPORTES",
     "latitude": -16.6933,
     "longitude":-49.3226
   },
  
   {
     "key": "MARINGA TRANSPORTES",
-    "name": "LDC | MARINGA TRANSPORTES | FW | SDWAN | 10.74.228.85",
+    "name": "ARINGA TRANSPORTES",
     "latitude": -23.3781,
     "longitude":-51.9466
   },
  
   {
     "key": "NOVA MUTUM TRANSPORTES",
-    "name": "LDC | NOVA MUTUM TRANSPORTES | FW | SDWAN | 10.74.228.93",
+    "name": "NOVA MUTUM TRANSPORTES",
     "latitude": -13.8212,
     "longitude":-56.0782
   },
  
   {
     "key": "PARANAGUA-TRASPORTES",
-    "name": "LDC | PARANAGUA-TRASPORTES | FW | SDWAN | 10.74.228.99",
+    "name": "PARANAGUA-TRASPORTES",
     "latitude": -25.5557,
     "longitude":-48.5676
   },
@@ -127,28 +127,28 @@
  
   {
     "key": "RONDONOPOLIS TRANSPORTES",
-    "name": "LDC | RONDONOPOLIS TRANSPORTES | FW | SDWAN | 10.74.228.114",
+    "name": "RONDONOPOLIS TRANSPORTES",
     "latitude": -16.3441,
     "longitude":-54.6422
   },
  
   {
     "key": "SANTAREM",
-    "name": "LDC | SANTAREM | FW | SDWAN | 10.74.228.115",
+    "name": "SANTAREM",
     "latitude": -2.4186,
     "longitude":-54.7264
   },
  
   {
     "key": "SINOP TRANSPORTES",
-    "name": "LDC | SINOP TRANSPORTES | FW | SDWAN | 10.74.228.126",
+    "name": "SINOP TRANSPORTES",
     "latitude": -11.7782,
     "longitude":-55.4732
   },
  
   {
     "key": "SORRISO TRANPORTES",
-    "name": "LDC | SORRISO TRANPORTES | FW | SDWAN | 10.74.228.128",
+    "name": "SORRISO TRANPORTES",
     "latitude": -12.6015,
     "longitude":-55.7492
   },
@@ -169,7 +169,7 @@
  
   {
     "key": "LUIS EDUARDO MAGALHAES",
-    "name": "LDC | LUIS EDUARDO MAGALHAES | FW | SDWAN | 10.74.228.82",
+    "name": "LUIS EDUARDO MAGALHAES",
     "latitude": -12.1158,
     "longitude":-45.8685
   },
@@ -183,7 +183,7 @@
  
   {
     "key": "NOVA  VENECIA",
-    "name": "LDC | NOVA  VENECIA | FW | SDWAN | 10.74.228.94",
+    "name": "NOVA  VENECIA",
     "latitude": -18.6470,
     "longitude":-40.4515
   },
@@ -225,7 +225,7 @@
  
   {
     "key": "FAZENDA BOM RETIRO",
-    "name": "LDC | FAZENDA BOM RETIRO | FW | SDWAN | 10.74.228.39",
+    "name": "FAZENDA BOM RETIRO",
     "latitude": -20.1775,
     "longitude":-47.3282
   },
@@ -239,133 +239,133 @@
  
   {
     "key": "FAZENDA CACHOERINHA",
-    "name": "LDC | FAZENDA CACHOERINHA | FW | SDWAN | 10.74.228.41",
+    "name": "FAZENDA CACHOERINHA",
     "latitude": -22.0213,
     "longitude":-49.5699
   },
  
   {
     "key": "FAZENDA CAMPOS NOVOS",
-    "name": "LDC | FAZENDA CAMPOS NOVOS | FW | SDWAN | 10.74.228.42",
+    "name": "FAZENDA CAMPOS NOVOS",
     "latitude": -21.9360,
     "longitude":-49.8068
   },
  
   {
     "key": "FAZENDA GRAUNA",
-    "name": "LDC | FAZENDA GRAUNA | FW | SDWAN | 10.74.228.43",
+    "name": "FAZENDA GRAUNA",
     "latitude": -20.7590,
     "longitude":-50.8617
   },
  
   {
     "key": "FAZENDA LAGEADINHO",
-    "name": "LDC | FAZENDA LAGEADINHO | FW | SDWAN | 10.74.228.44",
+    "name": "FAZENDA LAGEADINHO",
     "latitude": -19.1145,
     "longitude":-48.6329
   },
  
   {
     "key": "FAZENDA LAGOA AZUL",
-    "name": "LDC | FAZENDA LAGOA AZUL | FW | SDWAN | 10.74.228.45",
+    "name": "FAZENDA LAGOA AZUL",
     "latitude": -20.6678,
     "longitude":-47.3816
   },
  
   {
     "key": "FAZENDA LAGOA FORMOSA",
-    "name": "LDC | FAZENDA LAGOA FORMOSA | FW | SDWAN | 10.74.228.46",
+    "name": "FAZENDA LAGOA FORMOSA",
     "latitude": -21.8657,
     "longitude":-46.9550
   },
  
   {
     "key": "FAZENDA LIMEIRA",
-    "name": "LDC | FAZENDA LIMEIRA | FW | SDWAN | 10.74.228.47",
+    "name": "FAZENDA LIMEIRA",
     "latitude": -20.3834,
     "longitude":-47.4971
   },
  
   {
     "key": "FAZENDA MARIA SOPHIA",
-    "name": "LDC | FAZENDA MARIA SOPHIA | FW | SDWAN | 10.74.228.48",
+    "name": "FAZENDA MARIA SOPHIA",
     "latitude": -22.5564,
     "longitude":-49.1416
   },
  
   {
     "key": "FAZENDA MONTE ALEGRE",
-    "name": "LDC | FAZENDA MONTE ALEGRE | FW | SDWAN | 10.74.228.49",
+    "name": "FAZENDA MONTE ALEGRE",
     "latitude": -18.9022,
     "longitude":-48.9512
   },
  
   {
     "key": "FAZENDA MONTE BELO",
-    "name": "LDC | FAZENDA MONTE BELO | FW | SDWAN | 10.74.228.50",
+    "name": "FAZENDA MONTE BELO",
     "latitude": -21.9869,
     "longitude":-48.1896
   },
  
   {
     "key": "FAZENDA MORRINHOS",
-    "name": "LDC | FAZENDA MORRINHOS | FW | SDWAN | 10.74.228.51",
+    "name": "FAZENDA MORRINHOS",
     "latitude": -22.9790,
     "longitude":-48.6160
   },
  
   {
     "key": "FAZENDA N.S. DE LOURDES",
-    "name": "LDC | FAZENDA N.S. DE LOURDES | FW | SDWAN | 10.74.228.52",
+    "name": "FAZENDA N.S. DE LOURDES",
     "latitude": -18.9990,
     "longitude":-48.6107
   },
  
   {
     "key": "FAZENDA PARAISO",
-    "name": "LDC | FAZENDA PARAISO | FW | SDWAN | 10.74.228.53",
+    "name": "FAZENDA PARAISO",
     "latitude": -22.4516,
     "longitude":-49.5355
   },
  
   {
     "key": "FAZENDA PEDRA BRANCA",
-    "name": "LDC | FAZENDA PEDRA BRANCA | FW | SDWAN | 10.74.228.54",
+    "name": "FAZENDA PEDRA BRANCA",
     "latitude": -23.1570,
     "longitude":-48.4802
   },
  
   {
     "key": "FAZENDA PORANGABA",
-    "name": "LDC | FAZENDA PORANGABA | FW | SDWAN | 10.74.228.55",
+    "name": "FAZENDA PORANGABA",
     "latitude": -20.0310,
     "longitude":-47.5455
   },
  
   {
     "key": "FAZENDA RINCAO DOS COXOS",
-    "name": "LDC | FAZENDA RINCAO DOS COXOS | FW | SDWAN | 10.74.228.56",
+    "name": "FAZENDA RINCAO DOS COXOS",
     "latitude": -23.2009,
     "longitude":-48.4729
   },
  
   {
     "key": "FAZENDA SANTA ANGELA",
-    "name": "LDC | FAZENDA SANTA ANGELA | FW | SDWAN | 10.74.228.57",
+    "name": "FAZENDA SANTA ANGELA",
     "latitude": -20.1705,
     "longitude":-47.2982
   },
  
   {
     "key": "FAZENDA SANTA ELIZA",
-    "name": "LDC | FAZENDA SANTA ELIZA | FW | SDWAN | 10.74.228.58",
+    "name": "FAZENDA SANTA ELIZA",
     "latitude": -21.0427,
     "longitude":-47.2804
   },
  
   {
     "key": "FAZENDA SANTA FE",
-    "name": "LDC | FAZENDA SANTA FE | FW | SDWAN | 10.74.228.59",
+    "name": "FAZENDA SANTA FE",
     "latitude": -18.9541,
     "longitude":-48.7171
   },
@@ -378,36 +378,36 @@
   },
  
   {
-    "key": "FAZENDA SANTA MARIA ",
-    "name": "LDC | FAZENDA SANTA MARIA | FW | SDWAN | 10.74.228.61",
+    "key": "FAZENDA SANTA MARIA",
+    "name": "FAZENDA SANTA MARIA",
     "latitude": -20.7938,
     "longitude":-49.0477
   },
  
   {
     "key": "FAZENDA SANTO ANTONIO BARRA NOVA",
-    "name": "LDC | FAZENDA SANTO ANTONIO BARRA NOVA | FW | SDWAN | 10.74.228.62",
+    "name": "FAZENDA SANTO ANTONIO BARRA NOVA",
     "latitude": -22.5023,
     "longitude":-49.7723
   },
  
   {
     "key": " FAZENDA SAO FRANCISCO",
-    "name": "LDC | FAZENDA SAO FRANCISCO | FW | SDWAN | 10.74.228.63",
+    "name": "FAZENDA SAO FRANCISCO",
     "latitude": -21.7494,
     "longitude":-47.7854
   },
  
   {
     "key": "FAZENDA SAO JOAO",
-    "name": "LDC | FAZENDA SAO JOAO | FW | SDWAN | 10.74.228.64",
+    "name": "FAZENDA SAO JOAO",
     "latitude": -21.1092,
     "longitude":-47.2659
   },
  
   {
     "key": "FAZENDA SAO JOAQUIM",
-    "name": "LDC | FAZENDA SAO JOAQUIM | FW | SDWAN | 10.74.228.65",
+    "name": "FAZENDA SAO JOAQUIM",
     "latitude": -22.0022,
     "longitude":-49.6926
   },
@@ -421,77 +421,77 @@
  
   {
     "key": "FAZENDA SAO JOSE BARREIRO",
-    "name": "LDC | FAZENDA SAO JOSE BARREIRO | FW | SDWAN | 10.74.228.67",
+    "name": "FAZENDA SAO JOSE BARREIRO",
     "latitude": -22.1093,
     "longitude":-49.5373
   },
  
   {
     "key": "FAZENDA SAO PEDRO PARAISO",
-    "name": "LDC | FAZENDA SAO PEDRO PARAISO | FW | SDWAN | 10.74.228.69",
+    "name": "FAZENDA SAO PEDRO PARAISO",
     "latitude": -23.1392,
     "longitude":-48.6515
   },
  
   {
     "key": "FAZENDA SAO SEBASTIAO",
-    "name": "LDC | FAZENDA SAO SEBASTIAO | FW | SDWAN | 10.74.228.70",
+    "name": "AZENDA SAO SEBASTIAO",
     "latitude": -21.9516,
     "longitude":-49.7126
   },
  
   {
     "key": "FAZENDA SERRINHA",
-    "name": "LDC | FAZENDA SERRINHA | FW | SDWAN | 10.74.228.71",
+    "name": "FAZENDA SERRINHA",
     "latitude": -22.8493,
     "longitude":-48.6013
   },
  
   {
     "key": "AGUA BOA",
-    "name": "LDC | AGUA BOA | FW | SDWAN | 10.74.228.11",
+    "name": "AGUA BOA",
     "latitude": -14.0366,
     "longitude":-52.2796
   },
  
   {
     "key": "ALTO ARAGUAIA",
-    "name": "LDC | ALTO ARAGUAIA | FW | SDWAN | 10.74.228.13",
+    "name": "ALTO ARAGUAIA",
     "latitude": -17.2451,
     "longitude":-53.3248
   },
  
   {
     "key": "ALTO GARÇAS",
-    "name": "LDC | ALTO GARÇAS | FW | SDWAN | 10.74.228.14",
+    "name": "ALTO GARÇAS",
     "latitude": -16.9313,
     "longitude":-53.5473
   },
  
   {
     "key": "APUCARANA",
-    "name": "LDC | APUCARANA | FW | SDWAN | 10.74.228.15",
+    "name": "APUCARANA",
     "latitude": -23.5574,
     "longitude":-51.4778
   },
  
   {
     "key": "AVARE",
-    "name": "LDC | AVARE | FW | SDWAN | 10.74.228.17",
+    "name": "AVARE",
     "latitude": -23.0905,
     "longitude":-48.9332
   },
  
   {
     "key": "BELEM",
-    "name": "LDC | BELEM | FW | SDWAN | 10.74.228.19",
+    "name": "BELEM",
     "latitude": -1.4456,
     "longitude":-48.4839
   },
  
   {
     "key": "CAIAPONIA",
-    "name": "LDC | CAIAPONIA | FW | SDWAN | 10.74.228.20",
+    "name": "CAIAPONIA",
     "latitude": -16.9197,
     "longitude":-51.8554
   },
@@ -505,35 +505,35 @@
  
   {
     "key": "CANARANA",
-    "name": "LDC | CANARANA | FW | SDWAN | 10.74.228.22",
+    "name": "CANARANA",
     "latitude": -13.5471,
     "longitude":-52.2284
   },
  
   {
     "key": "CARAVAGIO",
-    "name": "LDC | CARAVAGIO | FW | SDWAN | 10.74.228.23",
+    "name": "CARAVAGIO",
     "latitude": -12.9390,
     "longitude":-55.4388
   },
  
   {
     "key": "CASCAVEL",
-    "name": "LDC | CASCAVEL | FW | SDWAN | 10.74.228.24",
+    "name": "CASCAVEL",
     "latitude": -24.9601,
     "longitude":-53.4594
   },
  
   {
     "key": "CATALAO",
-    "name": "LDC | CATALAO | FW | SDWAN | 10.74.228.26",
+    "name": "CATALAO",
     "latitude": -18.1661,
     "longitude":-47.9336
   },
  
   {
     "key": "CHAPADAO DO CEU",
-    "name": "LDC | CHAPADAO DO CEU | FW | SDWAN | 10.74.228.28",
+    "name": "CHAPADAO DO CEU",
     "latitude": -18.3907,
     "longitude":-52.6729
   },
@@ -547,84 +547,84 @@
  
   {
     "key": "CRUZ ALTA",
-    "name": "LDC | CRUZ ALTA | FW | SDWAN | 10.74.228.31",
+    "name": "CRUZ ALTA",
     "latitude": -26.3075,
     "longitude":-48.8409
   },
  
   {
     "key": "CUBATAO",
-    "name": "LDC | CUBATAO | FW | SDWAN | 10.74.228.32",
+    "name": "CUBATAO",
     "latitude": -23.8628,
     "longitude":-46.4160
   },
  
   {
     "key": "CUIABA",
-    "name": "LDC | CUIABA | FW | SDWAN | 10.74.228.33",
+    "name": "CUIABA",
     "latitude": -15.5720,
     "longitude":-56.0783
   },
  
   {
     "key": "DOURADOS",
-    "name": "LDC | DOURADOS | FW | SDWAN | 10.74.228.34",
+    "name": "DOURADOS",
     "latitude": -22.2240,
     "longitude":-54.7868
   },
  
   {
     "key": "IPIRANGA DO NORTE",
-    "name": "LDC | IPIRANGA DO NORTE | FW | SDWAN | 10.74.228.73",
+    "name": "IPIRANGA DO NORTE",
     "latitude": -12.2222,
     "longitude":-56.1569
   },
  
   {
     "key": "IRATI",
-    "name": "LDC | IRATI | FW | SDWAN | 10.74.228.74",
+    "name": "IRATI",
     "latitude": -25.4448,
     "longitude":-50.6198
   },
  
   {
     "key": "ITABELA",
-    "name": "LDC | ITABELA | FW | SDWAN | 10.74.228.75",
+    "name": "ITABELA",
     "latitude": -16.5746,
     "longitude":-39.5586
   },
  
   {
     "key": "ITUMBIARA",
-    "name": "LDC | ITUMBIARA | FW | SDWAN | 10.74.228.76",
+    "name": "ITUMBIARA",
     "latitude": -18.3578,
     "longitude":-49.2194
   },
  
   {
     "key": "JATAI",
-    "name": "LDC | JATAI | FW | SDWAN | 10.74.228.79",
+    "name": "JATAI",
     "latitude": -17.9072,
     "longitude":-51.6778
   },
  
   {
     "key": "LUCAS DO RIO VERDE",
-    "name": "LDC | LUCAS DO RIO VERDE | FW | SDWAN | 10.74.228.81",
+    "name": "LUCAS DO RIO VERDE",
     "latitude": -13.0790,
     "longitude":-55.9361
   },
  
   {
     "key": "MANHUACU",
-    "name": "LDC | MANHUACU | FW | SDWAN | 10.74.228.83",
+    "name": "MANHUACU",
     "latitude": -20.2434,
     "longitude":-42.0283
   },
  
   {
     "key": "MARINGA",
-    "name": "LDC | MARINGA | FW | SDWAN | 10.74.228.84",
+    "name": "MARINGA",
     "latitude": -23.4181,
     "longitude":-51.9271
   },
@@ -638,133 +638,133 @@
  
   {
     "key": "MINEIROS",
-    "name": "LDC | MINEIROS | FW | SDWAN | 10.74.228.88",
+    "name": "MINEIROS",
     "latitude": -17.5743,
     "longitude":-52.5653
   },
  
   {
     "key": "MONTIVIDIU",
-    "name": "LDC | MONTIVIDIU | FW | SDWAN | 10.74.228.89",
+    "name": "MONTIVIDIU",
     "latitude": -17.4117,
     "longitude":-51.1818
   },
  
   {
     "key": "MORRINHOS",
-    "name": "LDC | MORRINHOS | FW | SDWAN | 10.74.228.90",
+    "name": "MORRINHOS",
     "latitude": -12.1158,
     "longitude":-45.8685
   },
  
   {
     "key": "NOVA MUTUM FERTILIZER",
-    "name": "LDC | NOVA MUTUM (FERTILIZER) | FW | SDWAN | 10.74.228.91",
+    "name": "NOVA MUTUM FERTILIZER",
     "latitude": -13.7948,
     "longitude":-56.0672
   },
  
   {
     "key": "NOVA MUTUM OILSEEDS",
-    "name": "LDC | NOVA MUTUM (OILSEEDS) | FW | SDWAN | 10.74.228.92",
+    "name": "NOVA MUTUM OILSEEDS",
     "latitude": -13.8237,
     "longitude":-56.0790
   },
  
   {
     "key": "PALMEIRA",
-    "name": "LDC | PALMEIRA | FW | SDWAN | 10.74.228.95",
+    "name": "PALMEIRA",
     "latitude": -25.4406,
     "longitude":-49.9918
   },
  
   {
     "key": "PARAGUACU PAULISTA",
-    "name": "LDC | PARAGUACU PAULISTA | FW | SDWAN | 10.74.228.96",
+    "name": "PARAGUACU PAULISTA",
     "latitude": -22.4209,
     "longitude":-50.5723
   },
  
   {
     "key": "PARANAGUA FERTILIZER",
-    "name": "LDC | PARANAGUA FERTILIZER | FW | SDWAN | 10.74.228.97",
+    "name": "PARANAGUA FERTILIZER",
     "latitude": -25.5231,
     "longitude":-48.5265
   },
  
   {
     "key": "PARANAGUA OILSEEDS",
-    "name": "LDC | PARANAGUA OILSEEDS | FW | SDWAN | 10.74.228.98",
+    "name": "PARANAGUA OILSEEDS",
     "latitude": -25.5039,
     "longitude":-48.5066
   },
  
   {
     "key": "PARANAVAI",
-    "name": "LDC | PARANAVAI | FW | SDWAN | 10.74.228.100",
+    "name": "PARANAVAI",
     "latitude": -23.0865,
     "longitude":-52.4025
   },
  
   {
     "key": "PARECIS",
-    "name": "LDC | PARECIS | FW | SDWAN | 10.74.228.101",
+    "name": "PARECIS",
     "latitude": -14.1515,
     "longitude":-56.9254
   },
  
   {
     "key": "PATROCINIO",
-    "name": "LDC | PATROCINIO | FW | SDWAN | 10.74.228.102",
+    "name": "PATROCINIO",
     "latitude": -18.9451,
     "longitude":-47.0075
   },
  
   {
     "key": "PEDERNEIRAS",
-    "name": "LDC | PEDERNEIRAS | FW | SDWAN | 10.74.228.103",
+    "name": "PEDERNEIRAS",
     "latitude": -22.3617,
     "longitude":-48.7098
   },
  
   {
     "key": "PEROLANDIA",
-    "name": "LDC | PEROLANDIA | FW | SDWAN | 10.74.228.105",
+    "name": "PEROLANDIA",
     "latitude": -17.9072,
     "longitude":-51.6778
   },
  
   {
     "key": "PLANALTO VERDE",
-    "name": "LDC | PLANALTO VERDE | FW | SDWAN | 10.74.228.106",
+    "name": "PLANALTO VERDE",
     "latitude": -17.4394,
     "longitude":-51.9079
   },
  
   {
     "key": "PONTA GROSSA",
-    "name": "LDC | PONTA GROSSA | FW | SDWAN | 10.74.228.107",
+    "name": "ONTA GROSSA",
     "latitude": -25.2242,
     "longitude":-50.0606
   },
  
   {
     "key": "PRIMAVERA DO LESTE",
-    "name": "LDC | PRIMAVERA DO LESTE | FW | SDWAN | 10.74.228.108",
+    "name": "PRIMAVERA DO LESTE",
     "latitude": -15.5731,
     "longitude":-54.3156
   },
  
   {
     "key": "QUERENCIA",
-    "name": "LDC | QUERENCIA | FW | SDWAN | 10.74.228.109",
+    "name": "QUERENCIA",
     "latitude": -12.5798,
     "longitude":-52.2280
   },
  
   {
     "key": "RIO VERDE OILSEEDS",
-    "name": "LDC | RIO VERDE (OILSEEDS) | FW | SDWAN | 10.74.228.111",
+    "name": "RIO VERDE OILSEEDS",
     "latitude": -17.8323,
     "longitude":-50.9540
   },
@@ -785,77 +785,77 @@
  
   {
     "key": "SERVICE DESK ALGAR",
-    "name": "LDC | SERVICE DESK ALGAR | FW | SDWAN | 10.74.228.121",
+    "name": "SERVICE DESK ALGAR",
     "latitude": -23.5456,
     "longitude":-46.6412
   },
  
   {
     "key": "SAO SIMAO",
-    "name": "LDC | SAO SIMAO | FW | SDWAN | 10.74.228.123",
+    "name": "SAO SIMAO",
     "latitude": -19.0528,
     "longitude":-50.5118
   },
  
   {
     "key": "SILVANIA",
-    "name": "LDC | SILVANIA | FW | SDWAN | 10.74.228.124",
+    "name": "SILVANIA",
     "latitude": -16.6671,
     "longitude":-48.6128
   },
  
   {
     "key": "SINOP",
-    "name": "LDC | SINOP | FW | SDWAN | 10.74.228.125",
+    "name": "SINOP",
     "latitude": -11.8474,
     "longitude":-55.5036
   },
  
   {
     "key": "SORRISO",
-    "name": "LDC | SORRISO | FW | SDWAN | 10.74.228.127",
+    "name": "SORRISO",
     "latitude": -12.9648,
     "longitude":-55.4380
   },
  
   {
     "key": "TABATINGA",
-    "name": "LDC | TABATINGA | FW | SDWAN | 10.74.228.129",
+    "name": "TABATINGA",
     "latitude": -21.7378,
     "longitude":-48.6881
   },
  
   {
     "key": " TANGARA DA SERRA",
-    "name": "LDC | TANGARA DA SERRA | FW | SDWAN | 10.74.228.130",
+    "name": "TANGARA DA SERRA",
     "latitude": -14.6231,
     "longitude":-57.4938
   },
  
   {
     "key": "UBERLANDIA",
-    "name": "LDC | UBERLANDIA | FW | SDWAN | 10.74.228.131",
+    "name": "UBERLANDIA",
     "latitude": -18.9312,
     "longitude":-48.2860
   },
  
   {
     "key": "UNAI",
-    "name": "LDC | UNAI | FW | SDWAN | 10.74.228.132",
+    "name": "UNAI",
     "latitude": -16.3596,
     "longitude":-46.8996
   },
  
   {
     "key": "VARGINHA OFFICE",
-    "name": "LDC | VARGINHA OFFICE | FW | SDWAN | 10.74.228.134",
+    "name": "VARGINHA OFFICE",
     "latitude": -21.5905,
     "longitude":-45.4878
   },
   
   {
     "key": "SANTOS TES",
-    "name": "LDC | SANTOS TES | FW | SDWAN | 10.74.228.119",
+    "name": "SANTOS TES",
     "latitude": -23.9799,
     "longitude":-46.2926
   },
@@ -885,13 +885,13 @@
   },
   {
     "key": "CATALAO TRANSPORTES",
-    "name": "LDC | CATALAO TRANSPORTES | FW | SDWAN | 10.74.228.27",
+    "name": "CATALAO TRANSPORTES",
     "latitude": -18.1680,
     "longitude":-47.9192
   },
   {
     "key": "CONFRESA TRANSPORTES",
-    "name": "LDC | CONFRESA TRANSPORTES | FW | SDWAN | 10.74.228.30",
+    "name": "CONFRESA TRANSPORTES",
     "latitude": -10.6424,
     "longitude":-51.5701
   },
@@ -903,7 +903,7 @@
   },
   {
     "key": "ESTANCIA",
-    "name": "LDC | ESTANCIA | FW | SDWAN | 10.74.228.35",
+    "name": "ESTANCIA",
     "latitude": -17.5622,
     "longitude":-51.8866
   },
@@ -921,7 +921,7 @@
   },
   {
     "key": "FAZENDA LAGEADINHO",
-    "name": "LDC | FAZENDA LAGEADINHO | FW | SDWAN | 10.74.228.44",
+    "name": "FAZENDA LAGEADINHO",
     "latitude": -19.1145,
     "longitude":-48.6329
   },
@@ -951,13 +951,13 @@
   },
   {
     "key": "SANTOS CSC",
-    "name": "LDC | SANTOS CSC | FW | SDWAN | 10.74.228.116",
+    "name": "SANTOS CSC",
     "latitude": -21.9516,
     "longitude":-49.7126
   },
   {
     "key": "MATAO",
-    "name": "LDC | MATAO | FW | SDWAN | 10.74.228.86",
+    "name": "MATAO",
     "latitude": -21.6381,
     "longitude":-48.3535
   },
@@ -968,8 +968,8 @@
     "longitude":-47.4971
   },
   {
-    "key": "FAZENDA SANTA MADALENA ",
-    "name": "LDC | FAZENDA SANTA MADALENA | FW | SDWAN | 10.74.228.60",
+    "key": "FAZENDA SANTA MADALENA",
+    "name": "FAZENDA SANTA MADALENA",
     "latitude": -21.9902,
     "longitude":-49.4680
   },
@@ -981,7 +981,7 @@
   },
   {
     "key": "URUACU",
-    "name": "LDC | URUACU | FW | SDWAN | 10.74.228.133",
+    "name": "URUACU",
     "latitude": -14.5284,
     "longitude":-49.1566
   },
@@ -999,19 +999,19 @@
   },
   {
     "key": "FAZENDA BOCAINA",
-    "name": "LDC | FAZENDA BOCAINA | FW | SDWAN | 10.74.228.38",
+    "name": "FAZENDA BOCAINA",
     "latitude": -22.1115,
     "longitude":-47.7412
   },
   {
     "key": "FAZENDA AGUA VERMELHA",
-    "name": "LDC | FAZENDA AGUA VERMELHA | FW | SDWAN | 10.74.228.36",
+    "name": "FAZENDA AGUA VERMELHA",
     "latitude": -20.9475,
     "longitude":-46.9355
   },
   {
     "key": "FAZENDA ANGOLA",
-    "name": "LDC | FAZENDA ANGOLA | FW | SDWAN | 10.74.228.37",
+    "name": "FAZENDA ANGOLA",
     "latitude": -22.1115,
     "longitude":-47.7412
   },
@@ -1041,7 +1041,7 @@
   },
   {
     "key": "MATIPO",
-    "name": "LDC | MATIPO | FW | SDWAN | 10.74.228.87",
+    "name": "MATIPO",
     "latitude": -20.3223,
     "longitude":-42.2685
   },
@@ -1059,7 +1059,7 @@
   },
   {
     "key": "FAZENDA BONIN",
-    "name": "LDC | FAZENDA BONIN | FW | SDWAN | 10.74.228.40",
+    "name": "FAZENDA BONIN",
     "latitude": -22.7567,
     "longitude":-48.6154
   },
@@ -1113,13 +1113,13 @@
   },
   {
     "key": "SANTOS RODOPARK",
-    "name": "LDC | SANTOS RODOPARK | FW | SDWAN | 10.74.228.117",
+    "name": "SANTOS RODOPARK",
     "latitude": -23.8511,
     "longitude":-46.3782
   },
   {
     "key": "BEBEDOURO",
-    "name": "LDC | BEBEDOURO  | FW | SDWAN | 10.74.228.18",
+    "name": "BEBEDOURO",
     "latitude": -20.9530,
     "longitude":-48.3741
   },
@@ -1143,7 +1143,7 @@
   },
   {
     "key": "FAZENDA SAO JOSE",
-    "name": "LDC | FAZENDA SAO JOSE | FW | SDWAN | 10.74.228.66",
+    "name": "FAZENDA SAO JOSE",
     "latitude": -22.4697,
     "longitude":-49.1434
   }
